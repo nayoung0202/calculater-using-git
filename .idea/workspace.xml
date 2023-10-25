@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fb51f9a-35ad-4a8e-b291-cde7045d936b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculater-using-git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="7fb51f9a-35ad-4a8e-b291-cde7045d936b" name="Changes" comment="first commit&#10;- 계산기 틀 만듦&#10;- plus 메소드 만듦">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +53,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698196550793</updated>
-      <workItem from="1698196551874" duration="1936000" />
+      <workItem from="1698196551874" duration="3159000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit&#10;- 계산기 틀 만듦&#10;- plus 메소드 만듦">
+      <option name="closed" value="true" />
+      <created>1698198883352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698198883352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit&#10;- 계산기 틀 만듦&#10;- plus 메소드 만듦" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;- 계산기 틀 만듦&#10;- plus 메소드 만듦" />
   </component>
 </project>
