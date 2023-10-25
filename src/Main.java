@@ -17,10 +17,10 @@ public class Main {
 
             System.out.print("연산자 >> ");
             String op = sc.nextLine();
-            System.out.print("피연산자 1 >>");
+            System.out.print("피연산자 1 >>  ");
             int a = Integer.parseInt(sc.nextLine());
-            System.out.print("피연산자 2 >>");
-            int b = Integer.parseInt(sc.nextLine());;
+            System.out.print("피연산자 2 >>  ");
+            int b = Integer.parseInt(sc.nextLine());
 
             switch (op) {
                 case "1" :
